@@ -14,6 +14,7 @@ cask "cai" do
 
   zap trash: [
     "~/Library/Preferences/com.soyasis.cai.plist",
+    "~/Library/Application Support/Cai",
     "~/.config/cai",
     "~/.cache/huggingface/hub/models--mlx-community--Ministral-3b-instruct-4bit",
   ]
