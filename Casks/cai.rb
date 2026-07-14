@@ -1,6 +1,6 @@
 cask "cai" do
-  version "1.5.2"
-  sha256 "692fba07f21918569a95cea0ab5ae2a450d272e20c7e17e8e966c81e824a1cff"
+  version "1.5.3"
+  sha256 "6812c5918f89ed84d108a791194eb52045f5d41c87b33120822873983f9ac593"
 
   url "https://github.com/cai-layer/cai/releases/download/v#{version}/Cai-#{version}-macos.dmg"
   name "Cai"
